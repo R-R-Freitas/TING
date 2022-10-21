@@ -25,10 +25,10 @@ def remove(instance):
     else:
         removed = instance.dequeue()
         if removed:
-            print("Arquivo %s removido com sucesso" % (removed["nome_do_arquivo"]))
-
-        
-
+            print(
+                "Arquivo %s removido com sucesso"
+                % (removed["nome_do_arquivo"])
+            )
 
 
 def file_metadata(instance, position):
