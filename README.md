@@ -20,6 +20,6 @@ Ou: créditos à participação da Trybe no projeto
 <details>  
   <summary>Clique para expandir</summary>  
   
-  A Trybe disponibilizou um projeto parcialmente pronto. O "Initial Commit" deste repositório contém os arquivos e códigos de autoria da Trybe.  
+  A Trybe disponibilizou alguns arquivos com configurações iniciais. O "Initial Commit" deste repositório contém os arquivos e códigos de autoria da Trybe.  
     
 </details>  
